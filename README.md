@@ -96,26 +96,26 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/infobijoy/prorfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Programmer Bijoy",
   profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  designation: "Full-Stack Web Developer",
+  description: "My name is Programmer Bijoy....",
+  email: "infobijoychandradas@gmail.com",
+  phone: "+8801634846245",
+  address: "Ashuganj, Brahmanbaria, Chittagong, Bangladesh - 3402",
+  github: "https://github.com/infobijoy",
+  facebook: "https://www.facebook.com/FreelancerBijoyChandraDas/",
+  linkedIn: "https://www.linkedin.com/in/infobijoychandradas/",
+  twitter: "https://twitter.com/infobijoydas",
+  stackOverflow: "https://stackoverflow.com/users/22154680/bijoy-chandra-das",
+  leetcode: "https://leetcode.com/infobijoy/",
+  devUsername: "infobijoy",
   resume: "...",
 };
 ```
@@ -140,4 +140,5 @@ export const personalData = {
 |    tailwindcss     |
 
 ---
+
 # prorfolio
